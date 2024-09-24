@@ -13,3 +13,5 @@ new terminal:\
 
 new terminal:
 # ros2 run turtlebot_encrypted_control leader_follower
+
+# ros2 run turtle_demo_controller leader_follower
