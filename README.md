@@ -22,6 +22,12 @@ new terminal:
 $ ros2 run turtle_demo_controller leader_follower
 ```
 
+# ToDo
+- publisher subcriber 나눠서 plant contoller 파트 나누기
+- 암호 적용하기
+- 
+
+
 # Reference
 
 https://github.com/roboticvedant/ROS2_turtlesim_PID_demo
