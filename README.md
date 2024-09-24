@@ -1,5 +1,8 @@
 # turtlebot_encrypted_control
 
+# git pull, push 하는법,,,
+https://shortcuts.tistory.com/8
+
 # Requirement
 ros2 (현:foxy)
 turtlesim package
