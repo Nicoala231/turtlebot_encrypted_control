@@ -12,4 +12,4 @@ new terminal:\
 # ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args --remap /cmd_vel:=/turtle1/cmd_vel 
 
 new terminal:
-# ros2 run turtle_demo_controller leader_follower
+# ros2 run turtlebot_encrypted_control leader_follower
