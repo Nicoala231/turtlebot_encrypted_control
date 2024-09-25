@@ -1,8 +1,14 @@
-# turtlebot_encrypted_control
+![image](https://github.com/user-attachments/assets/4dc9ec47-6062-41d8-8a7b-6be2f1e12287)# turtlebot_encrypted_control
 
 # git pull, push 하는법,,,
 https://shortcuts.tistory.com/8
 
+# install
+'''
+$ mkdir my_ws/src
+$ cd ~/my_ws/src
+$ git clone https://github.com/Nicoala231/turtlebot_encrypted_control/
+'''
 # Requirement
 ros2 (현:foxy)
 turtlesim package
