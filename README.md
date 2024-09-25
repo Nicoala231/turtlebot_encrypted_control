@@ -4,11 +4,11 @@
 https://shortcuts.tistory.com/8
 
 # install
-'''
-$ mkdir my_ws/src
-$ cd ~/my_ws/src
+```
+$ mkdir my_ws/src  
+$ cd ~/my_ws/src  
 $ git clone https://github.com/Nicoala231/turtlebot_encrypted_control/
-'''
+```
 # Requirement
 ros2 (현:foxy)
 turtlesim package
