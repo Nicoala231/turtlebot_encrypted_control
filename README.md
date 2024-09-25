@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4dc9ec47-6062-41d8-8a7b-6be2f1e12287)# turtlebot_encrypted_control
+# turtlebot_encrypted_control
 
 # git pull, push 하는법,,,
 https://shortcuts.tistory.com/8
