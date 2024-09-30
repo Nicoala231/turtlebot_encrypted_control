@@ -9,6 +9,7 @@ $ mkdir my_ws/src
 $ cd ~/my_ws/src  
 $ git clone https://github.com/Nicoala231/turtlebot_encrypted_control/
 ```
+git pull을 하면 폴더가 생성 x
 # Requirement
 ros2 (현:foxy)
 turtlesim package
