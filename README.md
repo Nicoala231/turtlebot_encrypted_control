@@ -15,6 +15,8 @@ ros2 (현:foxy)
 turtlesim package
 
 # Usage
+0. rosfoxy / source ./install/setup.bash
+
 1. 터틀봇 두개 소환하는 런치 파일 실행  
 ```
 ros2 launch turtle_demo_controller two_turtle.launch.py
